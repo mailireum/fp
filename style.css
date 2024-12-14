@@ -35,12 +35,6 @@ aside{
   width: 25%;
 }
 
-.grid{
-  display: flex;
-  justify-content: space-between;
-  margin_bottom: 50px;
-}
-
 .page-header{
   height 150px;
   margin-bottom: 40px;
@@ -51,8 +45,7 @@ aside{
 .container{
   display: flex;
   gap: 26px;
-  margin-top: 6%;
-  margin-bottom: 50px;
+  flex-basis:100px;
 }
 
 .sub-title{
