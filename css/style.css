@@ -24,6 +24,13 @@ article{
   width: 70%;
 }
 
+article img{
+  margin-bottom: 20px;
+}
+article p{
+  margin-bottom: 1rem;
+}
+
 aside{
   width: 25%;
 }
