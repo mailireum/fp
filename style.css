@@ -48,10 +48,9 @@ aside{
   text-align: center;
 }
 
-.wrapper{
-  display: grid;
+.container{
+  display: flex;
   gap: 26px;
-  grid-template-colums: 1fr 1fr 1fr;
   margin-top: 6%;
   margin-bottom: 50px;
 }
