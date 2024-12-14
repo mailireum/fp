@@ -35,7 +35,7 @@ aside{
   width: 25%;
 }
 
-.contents{
+.grid{
   display: flex;
   justify-content: space-between;
   margin_bottom: 50px;
