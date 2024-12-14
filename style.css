@@ -45,7 +45,7 @@ aside{
 .container{
   display: flex;
   gap: 26px;
-  width: 100px;
+  width: 1000px;
 }
 
 .sub-title{
