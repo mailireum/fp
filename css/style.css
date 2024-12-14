@@ -20,6 +20,20 @@ footer{
   text-align: center;
 }
 
+article{
+  width: 70%;
+}
+
+aside{
+  width: 25%;
+}
+
+.contents{
+  display: flex;
+  justify-content: space-between;
+  margin_bottom: 50px;
+}
+
 .page-header{
   height 150px;
   margin-bottom: 40px;
